@@ -1,0 +1,5 @@
+#!/bin/bash
+for f in $*
+do
+  xcrun -sdk iphoneos pngcrush -revert-iphone-optimizations -q $f converted/$f
+done
