@@ -3,8 +3,8 @@ pnguncrush
 
 convert PNG files from iOS apps to normal PNG
 
-I'm not a iOS developer, but I happens to need to extract some images from an exisiting iPhone App, this is a 
-little shell scipt that may saved your life.
+I'm not a iOS developer, but I once need to extract some images from an exisiting iPhone App, this is a 
+little shell scipt that helps me.
 
 ## Usage
     
